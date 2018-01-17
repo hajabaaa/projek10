@@ -21,7 +21,7 @@ public class biskut {
         System.out.println("Nama barangan:"+barangan );
         System.out.println("Harga seunit :RM:"+harga);
         System.out.println("Status barangan:"+status);
-        System.out.println("Suhu baranagan:"+suhu);
+        System.out.println("Suhu barangan:"+suhu);
         System.out.println("Semua maklumat adalah benar:"+pilihan); 
        
         
